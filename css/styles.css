@@ -73,3 +73,21 @@ main {
 .about-container h2 {
     text-align: center;
 } */
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: #1b63fa;
+    padding: 5%;
+}
+
+.footer-title {
+    color: #ffffff;
+}
+
+.footer-text {
+    color: #ffffff;
+    text-align: center;
+}
