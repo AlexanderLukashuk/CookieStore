@@ -63,6 +63,7 @@ main {
     justify-content: center;
     align-items: center;
     margin: 5%;
+    width: 80%;
 }
 
 /* .about-container img {
@@ -73,6 +74,10 @@ main {
 .about-container h2 {
     text-align: center;
 } */
+
+.about-title {
+    padding-top: 5%;
+}
 
 .footer {
     display: flex;
