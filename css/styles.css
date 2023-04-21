@@ -30,3 +30,12 @@ main {
 .cookie-bg-img {
     border-radius: 50%;
 }
+
+.main-cookie-text {
+    width: 85%;
+    text-align: center;
+}
+
+.main-text {
+    margin-bottom: 4%;
+}
