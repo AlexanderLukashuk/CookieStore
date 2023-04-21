@@ -1,1 +1,13 @@
 /* Add custom css styles here */
+
+.mask {
+    width: 700px;
+    height: 250px;
+    border-radius: 5%;
+}
+
+.bg-image {
+    display: flex;
+    justify-content: center!important;
+    align-items: center!important;
+}
