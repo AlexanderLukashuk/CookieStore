@@ -148,3 +148,32 @@ main {
         width: 90%;
     }
 }
+
+@media only screen and (max-width: 500px) {
+    .bg-image {
+        height: 350px;
+        background-repeat: no-repeat;
+        padding: 0%;
+        background-size: 100% 80%;
+        padding-bottom: 20%;
+    }
+
+    .mask {
+        width: 300px;
+        height: 130px;
+    }
+
+    .mb-3 {
+        width: 80%;
+        font-size: medium;
+    }
+
+    .about-title {
+        font-size: 2rem;
+    }
+
+    .about-subtext {
+        font-size: 15px;
+        width: 90%;
+    }
+}
