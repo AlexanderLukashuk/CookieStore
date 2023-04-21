@@ -133,4 +133,18 @@ main {
     .col {
         margin: 4%;
     }
+
+    .about-container img {
+        width: 25%;
+        height: 25%;
+    }
+
+    .about-title {
+        font-size: 2.5rem;
+    }
+
+    .about-subtext {
+        font-size: 20px;
+        width: 90%;
+    }
 }
