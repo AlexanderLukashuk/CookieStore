@@ -19,3 +19,14 @@ main {
     align-items: center;
     padding: 5%;
 }
+
+.col {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.cookie-bg-img {
+    border-radius: 50%;
+}
